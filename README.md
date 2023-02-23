@@ -11,8 +11,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harimohan1990" alt="harimohan1990" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development & Design**
-- 🌱 Technologies **JavaScript, React Js, Redux**
+- 🔭 I’m currently working on **Web Development**
+- 🌱 Technologies **JavaScript, React Js, Redux, html , css , node , express, mongodb**
 - 📫 How to reach me **harimohan1990@gmail.com**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=harimohan1990&show_icons=true&locale=en" alt="harimohan1990" /></p>
